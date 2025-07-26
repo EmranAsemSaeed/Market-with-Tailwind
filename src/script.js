@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: "$799.99",
             originalPrice: "$899.99",
             rating: 4,
-            image: "../images/small.png",
+            image: "images/small.png",
             description: "Premium smartphone with 6.7\" AMOLED display, triple 48MP camera system, and 5000mAh battery. Features the latest processor for exceptional performance."
         },
         {
@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: "$249.99",
             originalPrice: "$299.99",
             rating: 3,
-            image: "../images/picMouse.png",
+            image: "images/picMouse.png",
             description: "Advanced smartwatch with health monitoring, GPS, and 7-day battery life. Water resistant up to 50 meters with always-on display."
         },
         {
@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: "$349.99",
             originalPrice: "$399.99",
             rating: 5,
-            image: "../images/headPhone.png",
+            image: "images/headPhone.png",
             description: "Industry-leading noise cancellation with 30-hour battery life. Premium sound quality with deep bass and crystal-clear highs."
         },
         {
@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: "$1,299.99",
             originalPrice: "$1,499.99",
             rating: 4,
-            image: "../images/syanPhone.png",
+            image: "images/syanPhone.png",
             description: "Sleek and powerful ultrabook with 14\" 4K display, 16GB RAM, and 1TB SSD. Weighs just 2.8lbs with all-day battery life."
         },
         {
@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: "$1,599.99",
             originalPrice: "$1,799.99",
             rating: 4,
-            image: "../images/bluePhone.png",
+            image: "images/bluePhone.png",
             description: "24.2MP full-frame sensor with 4K video recording. Includes 24-70mm f/2.8 lens and advanced autofocus system."
         },
         {
@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: "$599.99",
             originalPrice: "$699.99",
             rating: 3,
-            image: "../images/small.png",
+            image: "images/small.png",
             description: "10.5\" tablet with stylus support, 128GB storage, and all-day battery. Perfect for productivity and entertainment."
         }
     ];
